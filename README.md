@@ -12,9 +12,22 @@
 
 ### Hey, I'm Hammad 👋
 
-I'm a software engineer with 3 years of experience building enterprise ERP systems, SaaS platforms, and real-time applications. I've led front-end development for 7+ production systems handling everything from 50k-row data grids to AI-powered document pipelines.
+I'm a software engineer based in Karachi. I've spent the last 3 years building enterprise ERP and SaaS systems — the kind of apps where bad architecture decisions show up six months later at 3am. That's probably why I can't stop thinking about system design.
 
-I care about building things that actually scale — not just demos that look good.
+I genuinely enjoy the moment a messy, chaotic codebase starts to make sense — when you find the right abstraction and suddenly everything clicks. That's the thing I chase.
+
+Outside of client work, I'm deep into AI/LLM integrations and slowly working toward building something of my own someday. Not sure what yet. But I'm getting closer.
+
+---
+
+### 🧠 How I think about code
+
+I care a lot about **why** a system is structured the way it is — not just that it works, but that it'll still make sense to someone (including future me) six months from now. I tend to over-engineer abstractions early and then ruthlessly simplify them. It's a process.
+
+A few things I always come back to:
+- If it's hard to explain, the design is probably wrong
+- Reusability isn't about saving time now — it's about not losing your mind later
+- Performance problems are usually architecture problems in disguise
 
 ---
 
@@ -38,31 +51,25 @@ I care about building things that actually scale — not just demos that look go
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Currently exploring:** Docker · RAG systems · LLM API integrations · Cloud deployments
+**Currently going deep on:** System design patterns · LLM APIs & RAG · Docker · Building my own thing
 
 ---
 
 ### 🚢 Things I've shipped
 
-**Cortex — AI-Powered ERP**
-> React · Node.js · PostgreSQL · WebSockets · AI
-- 50,000+ row real-time data grids across 8 modules
-- AI bulk PDF extraction for invoices — cut processing time by **70%**
+These aren't side projects — they're production systems used by real companies every day.
 
-**Integra — Quality Inspection Platform**
-> React · WebSockets · PDF Generation
-- 7 inspection workflows with multi-stage approvals and live status
-- Real-time KPI dashboard for quality managers
+**Cortex — AI-Powered ERP** · `React · Node.js · PostgreSQL · WebSockets`
+> An ERP with an AI document brain. I built the pipeline that reads invoices and purchase orders automatically — no manual data entry. The frontend handles massive real-time datasets without breaking a sweat.
 
-**Taskify — Multi-Tenant SaaS**
-> React · Node.js · Socket.io · MongoDB
-- 3-tier RBAC with JWT refresh rotation — zero cross-tenant leaks
-- 5-state task machine with Gemini AI reports in under 3s
+**Integra — Quality Inspection Platform** · `React · WebSockets`
+> Inspection workflows are surprisingly complex — multi-stage approvals, live status, instant PDFs. Built the whole front-end and a real-time dashboard managers actually use daily.
 
-**OCULAS — Vendor Portal**
-> React · Node.js · PostgreSQL
-- Automated document workflows handling **10,000+ docs/year**
-- 60% accuracy improvement over previous manual process
+**Taskify — Multi-Tenant SaaS** · `React · Node.js · Socket.io · MongoDB`
+> My cleanest architecture project. Multi-tenancy done right: 3-tier RBAC, JWT refresh rotation, zero cross-tenant leaks. Added Gemini AI for reports — generates in under 3 seconds.
+
+**OCULAS — Vendor Portal** · `React · Node.js · PostgreSQL`
+> Replaced a painful manual document process. Now handles 10,000+ documents a year automatically. The kind of system where people ask "how did we do this before?"
 
 ---
 
@@ -70,9 +77,9 @@ I care about building things that actually scale — not just demos that look go
 
 <div align="center">
 
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db&icon_color=0ea5e9)
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad2914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db&icon_color=0ea5e9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-shahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammad2914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db)
 
 </div>
 
@@ -80,8 +87,9 @@ I care about building things that actually scale — not just demos that look go
 
 <div align="center">
 
-*Open to new opportunities — frontend, full-stack, and AI-integrated roles.*
-**[Let's talk →](mailto:ch.hammad2914@gmail.com)**
+Open to new roles, interesting projects, and conversations about system design at odd hours.
+
+**[Say hi →](mailto:ch.hammad2914@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1a56db&height=100&section=footer" />
 
