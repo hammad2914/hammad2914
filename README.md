@@ -81,9 +81,7 @@ These aren't side projects — they're production systems used by real companies
 
 <div align="center">
 
-![Hammad's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammad2914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db&icon_color=0ea5e9)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammad2914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a56db)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hammad2914&theme=tokyonight&hide_border=true&background=0d1117&ring=1a56db&fire=0ea5e9&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
 
 </div>
 
