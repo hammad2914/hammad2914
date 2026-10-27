@@ -129,11 +129,7 @@ A year-long program in agentic AI and Forward Deployed Engineering (FDE): buildi
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammad2914/hammad2914/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammad2914/hammad2914/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contribution graph" width="100%" src="https://raw.githubusercontent.com/hammad2914/hammad2914/output/github-snake-dark.svg" />
-</picture>
+<img alt="Snake eating my GitHub contribution graph" width="100%" src="https://raw.githubusercontent.com/hammad2914/hammad2914/output/github-snake-dark.svg" />
 
 <sub>Redrawn every day from my real contributions.</sub>
 

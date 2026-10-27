@@ -20,8 +20,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # colours match the header: navy empty days, blue to cyan as activity rises
           outputs: |
-            dist/github-snake.svg?color_snake=#1D4ED8&color_dots=#EEF2F7,#BAE6FD,#7DD3FC,#38BDF8,#0284C7
             dist/github-snake-dark.svg?color_snake=#22D3EE&color_dots=#161E2E,#0C3A5E,#1D4ED8,#0EA5E9,#67E8F9
+
+      # give the snake the same navy card as the streak and experience cards,
+      # so it looks the same whether GitHub is in light or dark mode
+      - name: Add card background
+        run: |
+          sudo sed -i "s|<desc>|<rect x=\"-16\" y=\"-32\" width=\"880\" height=\"192\" rx=\"6\" fill=\"#0B1220\"/><desc>|" dist/github-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
