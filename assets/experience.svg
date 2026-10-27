@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Experience: Software Engineer at Interactive Technologies Gateway, 2023 to present. Full Stack Developer at Consulting Service International, remote, 2025 to 2026.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .title { font-size: 16px; font-weight: 700; fill: #38BDF8; }
+    .role { font-size: 15.5px; font-weight: 700; fill: #FFFFFF; }
+    .org { font-size: 13px; fill: #94A3B8; }
+    .date { font-size: 12.5px; font-weight: 600; fill: #7DD3FC; }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#0B1220"/>
+  <text x="26" y="32" class="title">Experience</text>
+  <line x1="34" y1="78" x2="34" y2="128" stroke="#fff" stroke-opacity=".14"/>
+  <circle cx="34" cy="71" r="5" fill="#22D3EE"/><text x="54" y="76" class="role">Software Engineer</text><text x="469" y="76" text-anchor="end" class="date">2023 – Present</text><text x="54" y="97" class="org">Interactive Technologies Gateway</text><circle cx="34" cy="135" r="5" fill="#0B1220" stroke="#38BDF8" stroke-width="1.6"/><text x="54" y="140" class="role">Full Stack Developer</text><text x="469" y="140" text-anchor="end" class="date">2025 – 2026</text><text x="54" y="161" class="org">Consulting Service International · Remote</text>
+</svg>
